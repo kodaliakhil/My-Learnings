@@ -1,0 +1,155 @@
+{
+  "deckName": "Design Patterns Fundamentals",
+
+  "cards": [
+    {
+      "front": "What is a design pattern?",
+
+      "back": "A reusable blueprint for solving a recurring software design problem."
+    },
+
+    {
+      "front": "What is the primary purpose of a design pattern?",
+
+      "back": "To provide a proven solution idea for problems that occur repeatedly in software design."
+    },
+
+    {
+      "front": "Is a design pattern a piece of code?",
+
+      "back": "No. It is a general concept or blueprint, not ready-made code."
+    },
+
+    {
+      "front": "Why can't you simply copy-paste a design pattern into your program?",
+
+      "back": "Because a pattern describes a solution concept that must be adapted and implemented according to the needs of a specific program."
+    },
+
+    {
+      "front": "Design Pattern = ?",
+
+      "back": "Problem → Blueprint → Implementation"
+    },
+
+    {
+      "front": "What kind of problems are design patterns intended to solve?",
+
+      "back": "Recurring or commonly occurring software design problems."
+    },
+
+    {
+      "front": "What is the difference between a design pattern and an algorithm?",
+
+      "back": "An algorithm defines exact steps to achieve a goal, while a design pattern provides a high-level structure for solving a problem."
+    },
+
+    {
+      "front": "Design Pattern vs Algorithm (one-word memory aid)",
+
+      "back": "Pattern = Blueprint, Algorithm = Recipe"
+    },
+
+    {
+      "front": "Why is a recipe a good analogy for an algorithm?",
+
+      "back": "Because it contains a clear sequence of steps that should be followed."
+    },
+
+    {
+      "front": "Why is a blueprint a good analogy for a design pattern?",
+
+      "back": "Because it shows the structure and relationships, but not the exact implementation steps."
+    },
+
+    {
+      "front": "Can the same design pattern be implemented differently in different programs?",
+
+      "back": "Yes. The pattern stays the same, but the actual code may differ."
+    },
+
+    {
+      "front": "What does the 'Intent' section of a pattern describe?",
+
+      "back": "The problem being solved and the essence of the solution."
+    },
+
+    {
+      "front": "What does the 'Motivation' section of a pattern describe?",
+
+      "back": "Why the problem exists and how the pattern helps solve it."
+    },
+
+    {
+      "front": "What does the 'Structure' section of a pattern describe?",
+
+      "back": "The classes, components, and relationships involved in the pattern."
+    },
+
+    {
+      "front": "What does the 'Code Example' section of a pattern provide?",
+
+      "back": "A concrete example showing how the pattern can be implemented in a programming language."
+    },
+
+    {
+      "front": "List the four common parts of a pattern description.",
+
+      "back": "Intent, Motivation, Structure, Code Example."
+    },
+
+    {
+      "front": "What is the easiest way to remember design patterns?",
+
+      "back": "They are reusable blueprints for recurring software design problems."
+    },
+
+    {
+      "front": "What question should you ask when identifying a design pattern?",
+
+      "back": "What recurring problem am I trying to solve?"
+    },
+
+    {
+      "front": "Complete the recall chain: Recurring Problem → ? → Actual Code",
+
+      "back": "Design Pattern (Reusable Blueprint)"
+    },
+
+    {
+      "front": "What are the 3 B's for remembering design patterns?",
+
+      "back": "Bugging Problem → Blueprint → Build"
+    },
+
+    {
+      "front": "Bugging Problem (3B Rule)",
+
+      "back": "A problem keeps occurring repeatedly."
+    },
+
+    {
+      "front": "Blueprint (3B Rule)",
+
+      "back": "A design pattern provides a reusable solution structure."
+    },
+
+    {
+      "front": "Build (3B Rule)",
+
+      "back": "Implement the blueprint in code according to your application's needs."
+    },
+
+    {
+      "front": "True or False: Design patterns define the exact order of implementation.",
+
+      "back": "False. They describe the structure of the solution, not exact implementation steps."
+    },
+
+    {
+      "front": "Interview Recall: Explain design patterns in one sentence.",
+
+      "back": "Design patterns are reusable blueprints that provide proven solutions for recurring software design problems."
+    }
+  ]
+}
