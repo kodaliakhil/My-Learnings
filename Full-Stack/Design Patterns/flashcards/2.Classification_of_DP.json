@@ -1,0 +1,257 @@
+{
+  "topic": "Classification of Design Patterns",
+  "flashcards": [
+    {
+      "id": 1,
+      "question": "What are design patterns?",
+      "answer": "Design patterns are reusable ways to solve common design problems in software.",
+      "type": "definition"
+    },
+    {
+      "id": 2,
+      "question": "What three things can design patterns differ by?",
+      "answer": "Design patterns can differ by complexity, level of detail, and scale of applicability.",
+      "type": "recall"
+    },
+    {
+      "id": 3,
+      "question": "What road construction analogy is used to explain design patterns?",
+      "answer": "A small solution is like installing traffic lights, while a large solution is like building a multi-level interchange with underground pedestrian passages.",
+      "type": "concept"
+    },
+    {
+      "id": 4,
+      "question": "What are idioms in design patterns?",
+      "answer": "Idioms are the most basic and low-level patterns, usually applying only to a single programming language.",
+      "type": "definition"
+    },
+    {
+      "id": 5,
+      "question": "What are architectural patterns?",
+      "answer": "Architectural patterns are high-level and universal patterns that can be used to design the architecture of an entire application.",
+      "type": "definition"
+    },
+    {
+      "id": 6,
+      "question": "How are idioms different from architectural patterns?",
+      "answer": "Idioms are low-level and language-specific, while architectural patterns are high-level and can shape an entire application.",
+      "type": "comparison"
+    },
+    {
+      "id": 7,
+      "question": "What are the three main groups of design patterns by intent?",
+      "answer": "The three main groups are creational patterns, structural patterns, and behavioural patterns.",
+      "type": "recall"
+    },
+    {
+      "id": 8,
+      "question": "What do creational patterns focus on?",
+      "answer": "Creational patterns focus on object creation mechanisms that increase flexibility and reuse of existing code.",
+      "type": "definition"
+    },
+    {
+      "id": 9,
+      "question": "What is the simple memory hook for creational patterns?",
+      "answer": "Creational patterns are about how objects are created.",
+      "type": "concept"
+    },
+    {
+      "id": 10,
+      "question": "Which patterns are included under creational patterns?",
+      "answer": "Factory Method, Abstract Factory, Builder, Prototype, and Singleton.",
+      "type": "recall"
+    },
+    {
+      "id": 11,
+      "question": "What does the Factory Method pattern do?",
+      "answer": "It provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.",
+      "type": "definition"
+    },
+    {
+      "id": 12,
+      "question": "What does the Abstract Factory pattern do?",
+      "answer": "It lets you produce families of related objects without specifying their concrete classes.",
+      "type": "definition"
+    },
+    {
+      "id": 13,
+      "question": "What does the Builder pattern do?",
+      "answer": "It lets you construct complex objects step by step and produce different types and representations using the same construction code.",
+      "type": "definition"
+    },
+    {
+      "id": 14,
+      "question": "What does the Prototype pattern do?",
+      "answer": "It lets you copy existing objects without making your code dependent on their classes.",
+      "type": "definition"
+    },
+    {
+      "id": 15,
+      "question": "What does the Singleton pattern do?",
+      "answer": "It ensures that a class has only one instance and provides a global access point to that instance.",
+      "type": "definition"
+    },
+    {
+      "id": 16,
+      "question": "What do structural patterns focus on?",
+      "answer": "Structural patterns explain how to assemble objects and classes into larger structures while keeping them flexible and efficient.",
+      "type": "definition"
+    },
+    {
+      "id": 17,
+      "question": "What is the simple memory hook for structural patterns?",
+      "answer": "Structural patterns are about how objects and classes are assembled.",
+      "type": "concept"
+    },
+    {
+      "id": 18,
+      "question": "Which patterns are included under structural patterns?",
+      "answer": "Adapter, Bridge, Composite, Decorator, Facade, Flyweight, and Proxy.",
+      "type": "recall"
+    },
+    {
+      "id": 19,
+      "question": "What does the Adapter pattern do?",
+      "answer": "It allows objects with incompatible interfaces to collaborate.",
+      "type": "definition"
+    },
+    {
+      "id": 20,
+      "question": "What does the Bridge pattern do?",
+      "answer": "It splits a large class or closely related classes into two separate hierarchies: abstraction and implementation.",
+      "type": "definition"
+    },
+    {
+      "id": 21,
+      "question": "What does the Composite pattern do?",
+      "answer": "It lets you compose objects into tree structures and work with these structures as if they were individual objects.",
+      "type": "definition"
+    },
+    {
+      "id": 22,
+      "question": "What does the Decorator pattern do?",
+      "answer": "It lets you attach new behaviours to objects by placing them inside special wrapper objects.",
+      "type": "definition"
+    },
+    {
+      "id": 23,
+      "question": "What does the Facade pattern do?",
+      "answer": "It provides a simplified interface to a library, framework, or complex set of classes.",
+      "type": "definition"
+    },
+    {
+      "id": 24,
+      "question": "What does the Flyweight pattern do?",
+      "answer": "It helps fit more objects into the available RAM by sharing common parts of state between multiple objects.",
+      "type": "definition"
+    },
+    {
+      "id": 25,
+      "question": "What does the Proxy pattern do?",
+      "answer": "It provides a substitute or placeholder for another object and controls access to the original object.",
+      "type": "definition"
+    },
+    {
+      "id": 26,
+      "question": "What do behavioural patterns focus on?",
+      "answer": "Behavioural patterns focus on effective communication and the assignment of responsibilities between objects.",
+      "type": "definition"
+    },
+    {
+      "id": 27,
+      "question": "What is the simple memory hook for behavioural patterns?",
+      "answer": "Behavioural patterns are about how objects communicate and share responsibilities.",
+      "type": "concept"
+    },
+    {
+      "id": 28,
+      "question": "Which patterns are included under behavioural patterns?",
+      "answer": "Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, and Visitor.",
+      "type": "recall"
+    },
+    {
+      "id": 29,
+      "question": "What does the Chain of Responsibility pattern do?",
+      "answer": "It lets you pass requests along a chain of handlers, where each handler decides to process the request or pass it to the next handler.",
+      "type": "definition"
+    },
+    {
+      "id": 30,
+      "question": "What does the Command pattern do?",
+      "answer": "It turns a request into a stand-alone object containing all information about the request.",
+      "type": "definition"
+    },
+    {
+      "id": 31,
+      "question": "What does the Iterator pattern do?",
+      "answer": "It lets you traverse elements of a collection without exposing its underlying representation.",
+      "type": "definition"
+    },
+    {
+      "id": 32,
+      "question": "What does the Mediator pattern do?",
+      "answer": "It reduces chaotic dependencies by restricting direct communication between objects and making them collaborate through a mediator object.",
+      "type": "definition"
+    },
+    {
+      "id": 33,
+      "question": "What does the Memento pattern do?",
+      "answer": "It lets you save and restore the previous state of an object without revealing implementation details.",
+      "type": "definition"
+    },
+    {
+      "id": 34,
+      "question": "What does the Observer pattern do?",
+      "answer": "It defines a subscription mechanism to notify multiple objects about events that happen to the object they are observing.",
+      "type": "definition"
+    },
+    {
+      "id": 35,
+      "question": "What does the State pattern do?",
+      "answer": "It lets an object alter its behaviour when its internal state changes, making it appear as if the object changed its class.",
+      "type": "definition"
+    },
+    {
+      "id": 36,
+      "question": "What does the Strategy pattern do?",
+      "answer": "It lets you define a family of algorithms, put each into a separate class, and make their objects interchangeable.",
+      "type": "definition"
+    },
+    {
+      "id": 37,
+      "question": "What does the Template Method pattern do?",
+      "answer": "It defines the skeleton of an algorithm in the superclass while letting subclasses override specific steps without changing the structure.",
+      "type": "definition"
+    },
+    {
+      "id": 38,
+      "question": "What does the Visitor pattern do?",
+      "answer": "It lets you separate algorithms from the objects on which they operate.",
+      "type": "definition"
+    },
+    {
+      "id": 39,
+      "question": "Which category deals with object creation?",
+      "answer": "Creational patterns deal with object creation.",
+      "type": "comparison"
+    },
+    {
+      "id": 40,
+      "question": "Which category deals with assembling objects and classes?",
+      "answer": "Structural patterns deal with assembling objects and classes.",
+      "type": "comparison"
+    },
+    {
+      "id": 41,
+      "question": "Which category deals with communication and responsibility between objects?",
+      "answer": "Behavioural patterns deal with communication and responsibility between objects.",
+      "type": "comparison"
+    },
+    {
+      "id": 42,
+      "question": "What is the core idea of classifying design patterns?",
+      "answer": "Design patterns can be classified by their scale and by their purpose.",
+      "type": "concept"
+    }
+  ]
+}
